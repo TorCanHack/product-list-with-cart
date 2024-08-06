@@ -19,8 +19,18 @@ module.exports = {
         'redHatText': 'Red Hat Text'
       }, 
 
+      inset: {
+        '1000': '62.5rem'
+      },
+      screens :{
+        'lg': '1040px'
+      },
+
       width: {
-        '279': '17.438rem'
+        '279': '17.438rem',
+        '592': '37rem',
+        '800': '50rem',
+        
       }
     },
   },
