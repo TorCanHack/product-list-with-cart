@@ -855,6 +855,10 @@ video {
   padding: 2rem;
 }
 
+.p-7{
+  padding: 1.75rem;
+}
+
 .px-4{
   padding-left: 1rem;
   padding-right: 1rem;
@@ -1050,5 +1054,9 @@ video {
 
   .lg\:p-8{
     padding: 2rem;
+  }
+
+  .lg\:p-16{
+    padding: 4rem;
   }
 }

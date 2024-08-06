@@ -78,7 +78,7 @@ const App = () => {
 
     
     return (
-      <main className={`lg:flex lg:flex-row lg:grow bg-rose-50 h-full font-redHatText p-16 ${order ? 'overflow-hidden' : ''}`}>
+      <main className={`lg:flex lg:flex-row lg:grow bg-rose-50 h-full font-redHatText p-7 lg:p-16  ${order ? 'overflow-hidden' : ''}`}>
 
         { order && (
           <>
